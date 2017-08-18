@@ -1,0 +1,9 @@
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\StarWars\bin\Debug\netcoreapp2.0\StarWars.Core.deps.json
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\StarWars\bin\Debug\netcoreapp2.0\StarWars.Core.dll
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\StarWars\bin\Debug\netcoreapp2.0\StarWars.Core.pdb
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\StarWars\bin\Debug\netcoreapp2.0\GraphQL.dll
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\StarWars\obj\Debug\netcoreapp2.0\StarWars.Core.csproj.CoreCompileInputs.cache
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\StarWars\obj\Debug\netcoreapp2.0\StarWars.Core.AssemblyInfoInputs.cache
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\StarWars\obj\Debug\netcoreapp2.0\StarWars.Core.AssemblyInfo.cs
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\StarWars\obj\Debug\netcoreapp2.0\StarWars.Core.dll
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\StarWars\obj\Debug\netcoreapp2.0\StarWars.Core.pdb

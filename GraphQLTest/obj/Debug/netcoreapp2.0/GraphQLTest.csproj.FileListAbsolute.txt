@@ -1,0 +1,11 @@
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.0\GraphQLTest.deps.json
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.0\GraphQLTest.runtimeconfig.json
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.0\GraphQLTest.runtimeconfig.dev.json
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.0\GraphQLTest.dll
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.0\GraphQLTest.csprojResolveAssemblyReference.cache
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.0\GraphQLTest.csproj.CoreCompileInputs.cache
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.0\GraphQLTest.AssemblyInfoInputs.cache
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.0\GraphQLTest.AssemblyInfo.cs
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\bin\Debug\netcoreapp2.0\GraphQLTest.pdb
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.0\GraphQLTest.dll
+c:\users\vitor\documents\visual studio 2017\Projects\Lab\GraphQLTest\GraphQLTest\obj\Debug\netcoreapp2.0\GraphQLTest.pdb
